@@ -1,0 +1,1 @@
+/usr/bin/c++    -msse -msse2 -msse3 -msse4.2 -fPIC -fopenmp -O3 -DNDEBUG   CMakeFiles/test_octree.dir/test/test_octree.cpp.o  -o test_octree -rdynamic liboctnet_core.so -Wl,-rpath,/home/rishunny/octnet/core/build 

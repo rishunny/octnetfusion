@@ -1,0 +1,3 @@
+/home/rishunny/octnet/th/cpu/build/CMakeFiles/edit_cache.dir
+/home/rishunny/octnet/th/cpu/build/CMakeFiles/rebuild_cache.dir
+/home/rishunny/octnet/th/cpu/build/CMakeFiles/octnet_torch_cpu.dir

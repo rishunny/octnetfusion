@@ -1,0 +1,3 @@
+/home/rishunny/octnet/th/gpu/build/CMakeFiles/edit_cache.dir
+/home/rishunny/octnet/th/gpu/build/CMakeFiles/rebuild_cache.dir
+/home/rishunny/octnet/th/gpu/build/CMakeFiles/octnet_torch_gpu.dir

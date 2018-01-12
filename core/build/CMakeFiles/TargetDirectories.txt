@@ -1,0 +1,4 @@
+/home/rishunny/octnet/core/build/CMakeFiles/edit_cache.dir
+/home/rishunny/octnet/core/build/CMakeFiles/test_octree.dir
+/home/rishunny/octnet/core/build/CMakeFiles/rebuild_cache.dir
+/home/rishunny/octnet/core/build/CMakeFiles/octnet_core.dir

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/rishunny/octnet/th/cpu/build",
+  "command": "/usr/bin/c++   -Doctnet_torch_cpu_EXPORTS -I/home/rishunny/octnet/core/include -I/dsvm/tools/torch/include -I/dsvm/tools/torch/include/TH -I/home/rishunny/octnet/th/cpu/include   -msse -msse2 -msse3 -msse4.2 -fPIC -fopenmp -O3 -DNDEBUG -fPIC   -std=gnu++11 -o CMakeFiles/octnet_torch_cpu.dir/src/cpu.cpp.o -c /home/rishunny/octnet/th/cpu/src/cpu.cpp",
+  "file": "/home/rishunny/octnet/th/cpu/src/cpu.cpp"
+}
+]

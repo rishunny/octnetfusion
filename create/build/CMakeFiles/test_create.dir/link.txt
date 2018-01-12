@@ -1,0 +1,1 @@
+/usr/bin/c++    -msse -msse2 -msse3 -msse4.2 -fPIC -fopenmp -O3 -DNDEBUG   CMakeFiles/test_create.dir/test/test_create.cpp.o  -o test_create -rdynamic liboctnet_create.so /home/rishunny/octnet/core/build/liboctnet_core.so -Wl,-rpath,/home/rishunny/octnet/create/build:/home/rishunny/octnet/core/build 

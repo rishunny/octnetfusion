@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/octnet/create/create.h
+octnet/core/core.h
+../include/octnet/create/octnet/core/core.h
+
+/home/rishunny/octnet/core/include/octnet/core/core.h
+types.h
+/home/rishunny/octnet/core/include/octnet/core/types.h
+string
+-
+cstdio
+-
+cmath
+-
+smmintrin.h
+-
+
+/home/rishunny/octnet/core/include/octnet/core/types.h
+
+/home/rishunny/octnet/core/include/octnet/cpu/cpu.h
+octnet/core/core.h
+/home/rishunny/octnet/core/include/octnet/cpu/octnet/core/core.h
+
+/home/rishunny/octnet/core/include/octnet/cpu/io.h
+octnet/core/core.h
+/home/rishunny/octnet/core/include/octnet/cpu/octnet/core/core.h
+
+/home/rishunny/octnet/create/test/test_create.cpp
+octnet/cpu/cpu.h
+/home/rishunny/octnet/create/test/octnet/cpu/cpu.h
+octnet/cpu/io.h
+/home/rishunny/octnet/create/test/octnet/cpu/io.h
+octnet/create/create.h
+/home/rishunny/octnet/create/test/octnet/create/create.h
+cstring
+-
+
