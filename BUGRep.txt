@@ -1,0 +1,17 @@
+#################################
+
+Function: pyoctnet.Octree.create_from_dense
+
+Error: ValueError: Buffer has wrong number of dimensions (expected 4, got 3)
+
+#################################
+
+Include package path in the common.lua file for pyoctnet
+
+#################################
+
+
+Installation of pyfusion and pyrender:
+Additional libs:
+sudo apt-get install freeglut3-dev
+sudo apt-get install libglew-dev
