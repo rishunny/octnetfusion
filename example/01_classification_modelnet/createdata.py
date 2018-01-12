@@ -19,9 +19,10 @@ import gzip
 
 from modelnet_fusion_common import *
 
-# TODO: make sure pyrender, pyfusion and oc are in your PYTHONPATH
+# Make sure pyrender, pyfusion and oc are in your PYTHONPATH
 import pyrender
 import pyfusion
+# This has to pyoctnet and not oc
 import pyoctnet
 
 random.seed(42)
@@ -38,7 +39,7 @@ settings = [
 ]
 
 
-# TODO: set Modelnet40 database
+# Set this path to Modelnet40 database
 data_root = 'PATH/TO/MODELNET40/SHAPES'
 models = get_models_list()
 n_train_paths = 200

@@ -11,6 +11,8 @@ print(string.format('[LOAD CONFIG] user: "%s"', user))
 print(string.format('[LOAD CONFIG] script_dir: "%s"', script_dir))
 
 common = {}
+
+-- Added this package path
 package.path = '../../th/?/init.lua;' .. package.path
 
 --------------------------------------------------------------------------------
